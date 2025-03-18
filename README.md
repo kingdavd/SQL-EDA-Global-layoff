@@ -10,7 +10,7 @@ The dataset includes:
 - **Industry**: The sector in which the companies operate.
 - **Total Laid Off**: The total number of employees affected- 
 - **Percentage Laid Off**: Proportion of layoffs relative to company size.
-- **Date**: The date the layoff event occurred- 2020-03-11	2023-03-06
+- **Date**: The date the layoff event occurred- 
 - - **Country**: The nuber of countrries where layoffs occurred- 
 - **Funds Raised (in Millions)**: The total funds raised by the companies-
 
